@@ -15,3 +15,8 @@ You don't need both of these to run the program.
 
 ## Copyright
 
+NutriVi Copyright (C) 2023 Benjamin Minch
+
+This program is free software: you can redistribute it and/or modify it under the terms of the MIT License.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the MIT License for more details.
