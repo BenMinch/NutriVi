@@ -1,5 +1,6 @@
 # NutriVi
 Calculate nutritional information for virus genomes. This simple program can take as input any fasta file (proteins or genomes) and output nutritional information such as average nitrogen/sulfur per sidechain (protein), nitrogen: carbon ratio, protein carbon content, etc. 
+![alt text](https://github.com/BenMinch/NutriVi/blob/main/nutrivi_image.png)
 
 ## Usage
 
